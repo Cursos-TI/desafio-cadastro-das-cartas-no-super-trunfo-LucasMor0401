@@ -62,7 +62,7 @@
         printf("Área(kms²): %f\n", area1);
         printf("PIB: %f\n", pib1);
         printf("Quantidade de pontos turisticos: %d\n", pontosturisticos1);
-        print("\n");
+        printf("\n");
 
 //Impressão dos dados da segunda carta
         printf("Carta 2:\n");
