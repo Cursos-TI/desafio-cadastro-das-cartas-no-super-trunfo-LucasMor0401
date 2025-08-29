@@ -52,7 +52,8 @@
         printf("Digite a quantidade de pontos turisticos da cidade:\n");
         scanf("%d", &pontosturisticos2);
         printf("\n");
-//Impressão dos dados
+
+//Impressão dos dados da primeira carta
         printf("Carta 1:\n");
         printf("Estado: %c\n", estado1);
         printf("Código: %s\n", codigo1);
@@ -61,9 +62,18 @@
         printf("Área(kms²): %f\n", area1);
         printf("PIB: %f\n", pib1);
         printf("Quantidade de pontos turisticos: %d\n", pontosturisticos1);
+        print("\n");
 
-
-
+//Impressão dos dados da segunda carta
+        printf("Carta 2:\n");
+        printf("Estado: %c\n", estado2);
+        print("Código: %s\n", codigo2);
+        printf("Nome da cidade: %s\n", nomecidade2);
+        printf("População da cidade: %d\n", populacao2);
+        printf("Área(kms²): %f\n", area2);
+        printf("PIB: %f\n", pib2);
+        printf("Quantidade de pontos turisticos: %d\n", pontosturisticos2);
+        
 
 
 
