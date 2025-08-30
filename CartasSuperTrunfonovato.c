@@ -73,8 +73,6 @@
         printf("Área(kms²): %f\n", area2);
         printf("PIB: %f\n", pib2);
         printf("Quantidade de pontos turisticos: %d\n", pontosturisticos2);
-
-        return 0;
         
         
 
