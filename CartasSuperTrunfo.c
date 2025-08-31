@@ -67,7 +67,7 @@
 //Impressão dos dados da segunda carta
         printf("Carta 2:\n");
         printf("Estado: %c\n", estado2);
-        print("Código: %s\n", codigo2);
+        printf("Código: %s\n", codigo2);
         printf("Nome da cidade: %s\n", nomecidade2);
         printf("População da cidade: %d\n", populacao2);
         printf("Área(kms²): %f\n", area2);
