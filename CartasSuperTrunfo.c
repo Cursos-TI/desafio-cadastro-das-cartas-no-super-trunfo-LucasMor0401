@@ -94,8 +94,8 @@
         pibpercapita1 = pib1 / populacao1;
         pibpercapita2 = pib2 / populacao2;
 
-        printf("PIB per capita da carta 1: %f\n", pibpercapita1);
-        printf("PIB per capita da carta 2: %f\n", pibpercapita2);
+        printf("PIB per capita da carta 1: %.4f\n", pibpercapita1);
+        printf("PIB per capita da carta 2: %.4f\n", pibpercapita2);
         
         if (pibpercapita1 > pibpercapita2){
                 printf("A carta vencedora é a carta 1!");
